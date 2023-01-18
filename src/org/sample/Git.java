@@ -8,6 +8,11 @@ public class Git {
 		int a =s.length();
 		System.out.println(a);
 		
+		String s2 = "selenium program";
+		int c= s2.length();
+		System.out.println(c);
+		System.out.println(s2);
+		
 	}
 	
 
